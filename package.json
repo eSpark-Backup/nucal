@@ -58,7 +58,7 @@
     "cross-fetch": "3.0.3",
     "eslint": "5.8.0",
     "eslint-plugin-vue": "5.0.0",
-    "geckodriver": "1.16.2",
+    "geckodriver": "6.1.1",
     "lint-staged": "8.1.7",
     "nativescript-dev-webpack": "1.0.1",
     "nativescript-vue-template-compiler": "2.2.0",
